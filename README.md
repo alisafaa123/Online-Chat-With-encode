@@ -8,24 +8,20 @@ Login/Signup Page
 This is the initial page users encounter. It provides options to either log in with existing credentials or sign up to create a new account.
 Login form with fields for Email and password.
 Signup form with fields for creating a new name, Email, and password.
-
- 
-
-
- 
-
+![photo_2024-06-04_23-51-10](https://github.com/alisafaa123/Online-Chat-With-encode/assets/147799521/a5694278-d57d-40f0-965c-7609d655b49e)
+![photo_2024-06-04_23-51-10](https://github.com/alisafaa123/Online-Chat-With-encode/assets/147799521/9fab78d7-342c-476f-b96c-bc1bd45ab7fa)
 
 Main Chat Interface
 
 This is the welcoming page where the user can search for other users to start a conversation.
-
+![image](https://github.com/alisafaa123/Online-Chat-With-encode/assets/147799521/d840886f-da80-455f-9c42-5f9568f44049)
  
 
 
 When finding a user it goes to the conversation page where both participants can interact 
 Through messages, it’s also possible to send messages to offline users 
 Because all chats are saved into the database of the application 
-
+![image](https://github.com/alisafaa123/Online-Chat-With-encode/assets/147799521/ceb5ddfa-b6a3-4b7f-8c96-371288f2d6f5)
   
 How the app works
 A Brief Description of Additive, Atbash, and Multiplicative Ciphers
@@ -49,9 +45,9 @@ Security: More secure than additive, but still vulnerable to certain attacks, es
 Comparison: Security: Multiplicative is generally the most secure among the three.
  
 How data is stored
-
+![image](https://github.com/alisafaa123/Online-Chat-With-encode/assets/147799521/4b80a130-0b59-4e96-80f9-ccfbc1d8984b)
 Passwords are encrypted with caesar cipher
-  
+ ![image](https://github.com/alisafaa123/Online-Chat-With-encode/assets/147799521/8c34cd39-6ccc-400f-98b5-c33018f9fcad) 
 
 
 
